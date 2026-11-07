@@ -1,0 +1,6 @@
+{
+  "name": "MastiGuard AI - Bovine Mastitis Early Warning",
+  "description": "AI-based predictive modelling and early-warning monitoring system for bovine mastitis in dairy cattle with explainable risk analysis and sensor telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
